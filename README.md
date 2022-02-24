@@ -1,3 +1,3 @@
 # Space-invaders
 Firt game in POO in python
-Game pygame
+<br/>Game pygame
