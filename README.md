@@ -2,7 +2,7 @@
 > The game
 
 <p align = "center">
-  <img src="img/gif.gif" width = 75% >
+  <img src="IMG/gif.gif" width = 75% >
 </p>
 
 ## 🚀 What is my project ?
